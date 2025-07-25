@@ -101,4 +101,4 @@ Dataset license belongs to the original authors. Project code is MIT licensed.
 
 ## Contact
 
-For questions or suggestions, open an issue or contact [your-email@example.com](ayushmittal629@gmail.com).
+For questions or suggestions, open an issue or contact [ayushmittal629@gmail.com](ayushmittal629@gmail.com).
